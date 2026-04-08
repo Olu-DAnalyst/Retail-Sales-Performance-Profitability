@@ -4,7 +4,7 @@
 
 RetailEdge Solutions operates across multiple cities and sales channels, including **physical retail stores and e-commerce platforms**.
 
-As the business scaled, sales data became fragmented across systems, limiting visibility into performance trends, profitability drivers and customer behaviour.
+As the business scaled, sales data became fragmented across systems, limiting visibility into performance trends, profitability drivers and cuhstomer behaviour.
 
 This project delivers a **commercial-grade Power BI dashboard** that consolidates multi-channel sales data into a single, interactive analytics solution for monitoring performance and supporting strategic decision-making.
 
@@ -58,7 +58,7 @@ This project delivers a **commercial-grade Power BI dashboard** that consolidate
 
 Download the full interactive dashboard:
 
-➡️ **[Download Power BI Dashboard](dashboard/retail_sales_dashboard.pbix)** 
+➡️ **[Download Power BI Dashboard](retail_sales_dashboard.pbix)** 
 *(Open using Microsoft Power BI Desktop)*
 
 ---
