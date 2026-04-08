@@ -77,11 +77,11 @@ Access the dataset used for this project:
 
 ### 🔹 Sales Performance Overview
 
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](screenshots/sales-overview.png)
 
 ### 🔹 Profitability Analysis
 
-![Profit Analysis](screenshots/profit_analysis.png)
+![Profit Analysis](screenshots/profit-analysis.png)
 
 ---
 
