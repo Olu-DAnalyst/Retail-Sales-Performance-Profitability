@@ -58,7 +58,7 @@ This project delivers a **commercial-grade Power BI dashboard** that consolidate
 
 Download the full interactive dashboard:
 
-➡️ **[Download Power BI Dashboard](dashboard/retail_sales_dashboard.pbix)**  
+➡️ **[Download Power BI Dashboard](dashboard/retail_sales_dashboard.pbix)** 
 *(Open using Microsoft Power BI Desktop)*
 
 ---
