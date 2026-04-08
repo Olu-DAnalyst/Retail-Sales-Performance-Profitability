@@ -77,7 +77,7 @@ Access the dataset used for this project:
 
 ### 🔹 Sales Performance Overview
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](screenshots/sales_overview.png)
 
 ### 🔹 Profitability Analysis
 
