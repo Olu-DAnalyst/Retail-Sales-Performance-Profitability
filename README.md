@@ -67,9 +67,8 @@ Download the full interactive dashboard:
 
 Access the dataset used for this project:
 
-➡️ **[Download Dataset](dataset/retail_sales_data.csv)**  
+➡️ **[Download Dataset](dataset/retail_sales_data_2017,2018,2019.csv)**  
 
-*(Cleaned dataset prepared for analysis)*
 
 ---
 
